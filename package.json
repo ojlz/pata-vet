@@ -1,0 +1,9 @@
+{
+  "name": "Pata Vet-animal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "serve . -l 3000",
+    "start": "serve . -l $PORT"
+  }
+}

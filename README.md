@@ -5,7 +5,7 @@
 > `(00) 90000-0006`, WhatsApp, preços e mapas são inventados.
 > Nenhum dado é real e não representa nenhuma empresa.
 
-🌐 **Demo no ar:** https://pata-model-pxzys-projects.vercel.app
+🌐 **Demo no ar:** https://pata-model.vercel.app
 
 Landing page de uma clínica veterinária + pet shop fictícia: consultas,
 vacinas, banho & tosa, planos de assinatura, FAQ e agendamento via WhatsApp.
